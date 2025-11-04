@@ -1,0 +1,7 @@
+.env
+__pycache__/
+analysis_results.json
+analysis_results/
+pdf_reports/
+env/
+
